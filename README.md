@@ -4,7 +4,7 @@
 
 📫 Reach out to me!
 <br><br>
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jude-a-rozario](https://www.linkedin.com/in/larsson-cruze-501375217))
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larsson-cruze-501375217])
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:larsson.cruze@torontomu.ca)
 
 
