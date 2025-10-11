@@ -1,6 +1,6 @@
 ### Hi, I'm Larsson Cruze! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
 ``
-I am a passionate Computer Science Student with a love for designing new and original programs and applications. My journey in the world of Computer Science has been an exciting exploration of creativity and problem-solving.
+
 
 📫 Reach out to me!
 <br><br>
