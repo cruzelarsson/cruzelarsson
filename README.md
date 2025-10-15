@@ -8,11 +8,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:larsson.cruze@torontomu.ca)
 
 I am a passionate 4th year Electrical Engineering Student at Toronto Metropolican University (formally Ryerson University) who loves working with hardware and software related projects. 
-My journey in engineering has been driven by my curiosity- from developing a todo app & analyzing signals in python and making real life structures in AutoCAD to designing a fully working multi-layer PCB in KiCad.  
+My journey in engineering has been driven by my curiosity- from developing a todo app & analyzing signals in python, making real life structures in AutoCAD to designing a fully working multi-layer PCB in KiCad.  
 
 <ul>
-  <li>🧠 I'm currently learning and expanding my knowledge on SQL, ReactJS, Dot NetFramework, HTML, CSS, GoLang, Rust, Elixir, C and Javascript</li>
-  <li>🛠️ I'm interested in Software Development, specifically web and app development for all platforms</li>
+  <li>🧠 I'm currently learning and expanding my knowledge on Python, VHDL, Revit, Solidworks, and Assembly </li>
+  <li>🛠️ I'm interested in Embedded Systems, Digital Signal Processing, Control Systems and Circuit Design</li>
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="20" height="20" />Proficient At: Python, Bash Scripting and OOP in Java, HTML, CSS, Javascript along with frameworks like React Native.</li>
   <li>👾 Explore my GitHub repositories to discover a collection of projects that showcase my skills and passion</li>
   <li>📚 I believe in the power of continuous learning. My GitHub is not just a portfolio but a living document of my journey</li>
