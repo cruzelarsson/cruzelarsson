@@ -13,13 +13,13 @@ My journey in engineering has been driven by my curiosity- from developing a tod
 <ul>
   <li>🧠 I'm currently learning and expanding my knowledge on Python, VHDL, Revit, Solidworks, and Assembly </li>
   <li>🛠️ I'm interested in Embedded Systems, Digital Signal Processing, Control Systems and Circuit Design</li>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="20" height="20" />Proficient At: Python, Bash Scripting and OOP in Java, HTML, CSS, Javascript along with frameworks like React Native.</li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="20" height="20" />Proficient At: NI Multisim | AutoCAD | KiCad | MS Office | Simulink | MATLAB |.</li>
   <li>👾 Explore my GitHub repositories to discover a collection of projects that showcase my skills and passion</li>
-  <li>📚 I believe in the power of continuous learning. My GitHub is not just a portfolio but a living document of my journey</li>
+  <li>📚 Relevant Coursework:Control System | Energy Conservation | Microprocessor Systems | Communication in the Engineering Professions | Engineering Algorithms and Data Structures | Electric Networks | Signal and Systems I & II   </li>
   <li>🤝 I'm always open to collaboration and welcome opportunities to work with like-minded individuals. If you have a project or idea that aligns with my interests, let's connect and explore the possibilities together!</li>
 </ul>
 
-Let's code the future together! 🌟
+Let's engineer the future together! 🌟
 
 <!--
 **juderozario08/juderozario08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
