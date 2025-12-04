@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larsson-cruze-501375217)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:larsson.cruze@torontomu.ca)
 
-I am a passionate 4th year Electrical Engineering Student at Toronto Metropolican University (formally Ryerson University) who loves working with hardware and software related projects. 
+I am a passionate 3rd year Electrical Engineering Student at Toronto Metropolican University (formally Ryerson University) who loves working with hardware and software related projects. 
 My journey in engineering has been driven by my curiosity- from developing a todo app & analyzing signals in python, making real life structures in AutoCAD to designing a fully working multi-layer PCB in KiCad.  
 
 <ul>
